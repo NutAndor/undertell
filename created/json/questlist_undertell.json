@@ -1,0 +1,32 @@
+[
+    {
+        "id":"unnmir1",
+        "name":"Missing loot",
+        "showInLog":1,
+        "stages":[
+            {
+                "progress":10,
+                "logText":"Unnmir tells you how he and Prakbum used to adventure together, but he stopped after losing a leather bag full of treasure after being attacked in the night by giant ants."
+            },
+            {
+                "progress":20,
+                "logText":"Prakbum tells you that you should look for a forest ant colony northwest of Fallhaven."
+            },
+            {
+                "progress":30,
+                "logText":"With Prakbum's clue, you found the entrance to the ant colony."
+            },
+            {
+                "progress":50,
+                "logText":"You have passed through the ant colony and found Unnmir's treasure.",
+                "rewardExperience":1000
+            },
+            {
+                "progress":100,
+                "logText":"You have returned Unnmir's treasure to him, and he has given you a finder's fee.",
+                "rewardExperience":3000,
+                "finishesQuest":1
+            }
+        ]
+    }
+]

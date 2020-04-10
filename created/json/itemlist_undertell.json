@@ -1,0 +1,19 @@
+[
+    {
+        "id":"unnmir_bag",
+        "iconID":"items_japozero:441",
+        "name":"Unnmir's leather bag",
+        "displaytype":"quest",
+        "baseMarketCost":1000,
+        "category":"other",
+        "description":"A leather bag holding coins and gems"
+    },
+    {
+        "id":"queen_item",
+        "iconID":"items_japozero:441",
+        "name":"Queen ant item",
+        "baseMarketCost":1,
+        "category":"other",
+        "description":"Placeholder"
+    },
+]

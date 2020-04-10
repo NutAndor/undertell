@@ -1,0 +1,21 @@
+[
+    {
+        "id":"sign_putrid",
+        "message":"There is a putrid smell wafting through the trees to the northeast.  You feel an urgent desire to turn back."
+    },
+    {
+        "id":"colony_entrance_select",
+        "replies":[
+            {
+                "nextPhraseID":"X",
+                "requires":[
+                    {
+                        "requireType":"questProgress",
+                        "requireID":"unnmir1",
+                        "value":20
+                    }
+                ]
+            }
+        ]
+    }
+]
